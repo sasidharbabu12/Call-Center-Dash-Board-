@@ -29,5 +29,6 @@ identifying the low CSAT scores individually & based on team lead and manger and
 Identifying key KPIS and letting company know where we need to work on and try to increase productivity .
 
 Screenshot / Demo - Dash Board 
+https://github.com/sasidharbabu12/Call-Center-Dash-Board-/blob/main/call%20center%20Dash%20Board.JPG
 
 
